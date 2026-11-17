@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**woongphal/woongphal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm woongphal 👋
 
-Here are some ideas to get you started:
+**Robotics · SLAM · Mapping & Localization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+로봇이 세상을 이해하고, 스스로 길을 찾는 기술에 관심이 있습니다.
+
+</div>
+
+### 🤖 Interests
+
+- **Robotics** — 로봇 소프트웨어와 자율주행
+- **SLAM** — 지도 작성과 위치 추정
+- **Perception** — 센서로 주변 환경 이해하기
+
+### 🌼 A little about me
+
+치이카와 · 하치와레 · 우사기와 함께, 조금씩 배우고 만들어 갑니다.
