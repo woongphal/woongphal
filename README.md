@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./chiikawa-robotics-slam-banner.png" alt="Chiikawa, Hachiware and Usagi exploring robotics and SLAM" width="100%">
+
 # Hi, I'm woongphal 👋
 
 **Robotics · SLAM · Mapping & Localization**
